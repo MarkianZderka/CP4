@@ -31,3 +31,4 @@ In this workshop, we are building an E-Commerce application from scratch. The pr
 
 ## Getting Started
 To get started with the project, refer to the [documentation](docs/) and guides provided within the repository for detailed instructions on setting up the project and running tests.
+
